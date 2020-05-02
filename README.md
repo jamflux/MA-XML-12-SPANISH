@@ -1,7 +1,7 @@
-# SPANISH MIUI 11 TRANSLATION FOR XIAOMI.EU
+# SPANISH MIUI 12 TRANSLATION FOR XIAOMI.EU
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
-![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)
+![MIUI11 logo](https://i.imgur.com/CHsqrkY.png)
 
 ## ¿Qué hacer si encuentro algo sin traducir?
 ¡Importante leer!
@@ -17,19 +17,16 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 ## Voluntarios que ayudaron a la traducción:
 
-* [@Infante007](https://github.com/Infante007)
-* [@danielchc](https://github.com/danielchc)
-* [@rdgi](https://github.com/rdgi)
-* [@Muchachito](https://github.com/Muchachito)
+* [@jamflux](https://github.com/jamflux)
 
 *Si quieres donar para contribuir al proyecto no dudes en contactarnos*
 ## Misc
 
-[Validador XML](https://translators.xiaomi.eu/XML_MIUI11-Spanish-es.html)
+[Validador XML](https://translators.xiaomi.eu/XML_MIUI12-Spanish-es.html)
 
-[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv11-XML-Compare)
+[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare)
 
-[Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-11-SPANISH-Global/commits)
+[Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-12-SPANISH-Global/commits)
 
 
 # Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
